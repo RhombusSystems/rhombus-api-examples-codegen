@@ -14,7 +14,7 @@ The simplest is to simply run
 
 `wget -O - https://raw.githubusercontent.com/Bricktheworld/RhombusTypescriptAPI/master/install.sh | bash` 
 
-in the root directory of your NodeJS application, which will create a "RhombusTypescriptAPI" directory. This can then be imported in your package.json using `"@rhombus/API": "file:./RhombusTypescriptAPI"` as a dependency. See https://github.com/Bricktheworld/rhombus-api-examples-javascript for an example of how to do this along with how to use this API
+in the root directory of your NodeJS application, which will create a "RhombusTypescriptAPI" directory. This can then be imported in your package.json using `"@rhombus/API": "file:./RhombusTypescriptAPI"` as a dependency. See https://github.com/RhombusSystems/rhombus-api-examples-javascript for an example of how to do this along with how to use this API
 
 
 The second way to do it is to clone this repo and run the `build.sh` script, which will the generate a RhombusTypescriptAPI/RhombusTypescriptAPI output build directory as well as save the src typescript files if you need them.
