@@ -1,0 +1,30 @@
+{
+  "name": "@rhombus/API",
+  "version": "1.0.0",
+  "description": "Swagger typescript client for Rhombus API",
+  "author": "Rhombus Systems",
+  "keywords": [
+    "fetch",
+    "typescript",
+    "swagger-client",
+    "@rhombus/API"
+  ],
+  "license": "Unlicense",
+  "typings": "..RhombusTypescriptAPI/dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --outDir ../RhombusTypescriptAPI",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@types/isomorphic-fetch": "^0.0.35",
+    "isomorphic-fetch": "^3.0.0",
+    "portable-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.9",
+    "typescript": "^4.0.3"
+  },
+  "publishConfig": {
+    "registry": "https://skimdb.npmjs.com/registry"
+  }
+}
