@@ -6,4 +6,4 @@ cd ._RhombusPythonAPISrc/python/
 cp -r RhombusPythonAPI ../../RhombusPythonAPI
 cd ..
 cd ..
-rm -rf ._RhombusTypescriptAPISrc
+rm -rf ._RhombusPythonAPISrc
