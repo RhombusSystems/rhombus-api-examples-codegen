@@ -1,2 +1,2 @@
-rm -rf RhombusPythonAPI
+rm -rf RhombusAPI
 rm -rf src
