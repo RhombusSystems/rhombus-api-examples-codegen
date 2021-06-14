@@ -19,7 +19,3 @@ in the root directory of your NodeJS application, which will create a "RhombusTy
 
 
 The second way to do it is to clone this repo and run the `build.sh` script in this directory, which will the generate a RhombusTypescriptAPI/RhombusTypescriptAPI output build directory as well as save the src typescript files if you need them.
-
-
-## Rhombus Developers
-The clean.sh script is used to clean up all source and build files. After uploading the output build files to npm, it is recommended to run this clean.sh script
