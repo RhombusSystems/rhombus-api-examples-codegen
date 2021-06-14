@@ -1,4 +1,0 @@
-RhombusTypescriptAPI/
-src/*
-!src/package.json
-!src/tsconfig.json
