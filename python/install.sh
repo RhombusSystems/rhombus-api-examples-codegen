@@ -1,5 +1,5 @@
 rm -rf RhombusAPI
-git clone git@github.com:RhombusSystems/rhombus-api-examples-codegen.git ._RhombusPythonAPISrc
+git clone https://github.com/RhombusSystems/rhombus-api-examples-codegen.git ._RhombusPythonAPISrc
 
 cd ._RhombusPythonAPISrc/python/
 ./build.sh
