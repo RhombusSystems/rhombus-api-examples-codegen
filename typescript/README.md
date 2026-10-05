@@ -2,7 +2,7 @@
 
 ## What is this
 
-This is a repository for tools that allow for codegeneration using [SwaggerCodegen](https://github.com/swagger-api/swagger-codegen) for the [RhombusSystems API](https://apidocs.rhombussystems.com/reference)
+This is a repository for tools that allow for codegeneration using [SwaggerCodegen](https://github.com/swagger-api/swagger-codegen) for the [RhombusSystems API](https://developer.rhombus.com/api-reference/overview)
 
 This includes tools for developers to install the fully built Javascript API for use in their NodeJS applications. 
 
